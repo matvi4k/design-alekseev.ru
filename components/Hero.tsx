@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
              
              <div className="hidden sm:block text-xs text-gray-500 uppercase tracking-widest pl-4">
                 design-alekseev.ru <br />
-                <span className="text-brand-purple">since 2024</span>
+                <span className="text-brand-purple">since 2026</span>
              </div>
           </div>
         </div>

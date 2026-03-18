@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="text-[10px] text-gray-700">
-          © 2024 Alekseev Design. Все права защищены.
+          © 20206 Alekseev Design. Все права защищены.
         </div>
       </div>
     </footer>
